@@ -45,6 +45,7 @@
             <router-link class="dropdown-item" to="/olimpicos/atena">Atena</router-link>
             <router-link class="dropdown-item" to="/olimpicos/apolo">Apolo</router-link>
             <router-link class="dropdown-item" to="/olimpicos/artemis">Ártemis</router-link>
+            <router-link class="dropdown-item" to="/olimpicos/helios">Hélio</router-link>
             <router-link class="dropdown-item" to="/olimpicos/hermes">Hermes</router-link>
             <router-link class="dropdown-item" to="/olimpicos/ares">Ares</router-link>
             <router-link class="dropdown-item" to="/olimpicos/hefesto">Hefesto</router-link>
@@ -67,12 +68,14 @@
             <router-link class="dropdown-item" to="/herois/aquiles">Aquiles</router-link>
             <router-link class="dropdown-item" to="/herois/ulisses">Ulisses</router-link>
             <router-link class="dropdown-item" to="/herois/jasao">Jasão</router-link>
+            <router-link class="dropdown-item" to="/herois/medeia">Medeia</router-link>
             <router-link class="dropdown-item" to="/herois/belerofonte">Beleforonte</router-link>
             <router-link class="dropdown-item" to="/herois/atalanta">Atalanta</router-link>
             <router-link class="dropdown-item" to="/herois/diomedes">Diomedes</router-link>
             <router-link class="dropdown-item" to="/herois/orfeu">Orfeu</router-link>
             <router-link class="dropdown-item" to="/herois/edipo">Édipo</router-link>
-            
+            <router-link class="dropdown-item" to="/herois/faetonte">Faetonte</router-link>
+            <router-link class="dropdown-item" to="/herois/amazonas">Amazonas</router-link>
             <!-- Adicione outros links dos Heróis aqui -->
           </div>
         </div>
@@ -114,7 +117,7 @@
             <router-link class="dropdown-item" to="/locais/creta">Ilha de Creta</router-link>
             <router-link class="dropdown-item" to="/locais/delos">Ilha de Delos</router-link>
             <router-link class="dropdown-item" to="/locais/styx">Rio Styx</router-link>
-            
+            <router-link class="dropdown-item" to="/locais/troia">Cidade de Troia</router-link>
 
           
           </div>
